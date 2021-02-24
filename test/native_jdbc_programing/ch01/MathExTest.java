@@ -26,7 +26,7 @@ public class MathExTest { // 단위테스트 (기능(메소드) 하나하나 마
 	@Before
 	public void setUp() throws Exception {
 		m.setA(5);
-		m.setB(3);
+		m.setB(4);
 	}
 
 	@After
